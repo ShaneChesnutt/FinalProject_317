@@ -18,5 +18,5 @@ Unique game sessions
 Deletion of playerfiles
 New attack system with character attributes counting towards different dynamics (Damage, dodging, etc)
 
-
-
+****IMPORTANT****
+In order for the game to work on the server you need to create a gamefiles and playerfiles directory
