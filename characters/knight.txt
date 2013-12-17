@@ -1,0 +1,13 @@
+Knight 
+
+Name: Chronus 
+
+Stats: 
+Strength: 20 
+Dexterity: 5 
+Constitution: 25 
+Willpower: 0 
+Attack: 30 
+Defense: 30 
+
+Perks: Great Defense

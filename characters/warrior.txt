@@ -1,0 +1,13 @@
+Warrior
+
+Name: Erasmus 
+
+Stats: 
+Strength: 25 
+Dexterity: 10 
+Constitution: 15 
+Willpower: 0 
+Attack: 30 
+Defense: 20 
+
+Perks: Powerful Attacks

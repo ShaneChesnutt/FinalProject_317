@@ -1,0 +1,13 @@
+Archer 
+
+Name: Avelina 
+
+Stats: 
+Strength: 10 
+Dexterity: 30 
+Constitution: 10 
+Willpower: 0 
+Attack: 20 
+Defense: 15 
+
+Perks: Accuracy and Dodging

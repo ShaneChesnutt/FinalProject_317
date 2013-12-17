@@ -1,0 +1,13 @@
+Rogue 
+
+Name: Barric 
+
+Stats: 
+Strength: 15 
+Dexterity: 20 
+Constitution: 15 
+Willpower: 0 
+Attack: 30 
+Defense: 30 
+
+Perks: Dodging and Accurate Attacks

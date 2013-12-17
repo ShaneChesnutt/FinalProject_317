@@ -1,0 +1,13 @@
+Wizard 
+
+Name: Severinus 
+
+Stats: 
+Strength: 0 
+Dexterity: 5 
+Constitution: 15 
+Willpower: 30 
+Attack: 30 
+Defense: 30 
+
+Perks: Powerful Magic Attacks
